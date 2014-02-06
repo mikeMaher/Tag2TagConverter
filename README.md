@@ -1,16 +1,16 @@
-Tag2TagConverter
-================
+# Tag2TagConverter
+
 
 A tag to tag converter ruby script template 
 
-Requirements
-================
+## Requirements
+
 Programming Language: `Ruby`
 
   Ruby Gems: `nokogiri`
     
-To Run
-================
+### To Run
+
 cd into script directory
 
 cmd/terminal: 
