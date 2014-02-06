@@ -5,12 +5,9 @@ A tag to tag converter ruby script template
 
 Requirements
 ================
-Programming Language
-`Ruby`
+Programming Language: `Ruby`
 
-  Ruby Gems
-  
-    `nokogiri`
+  Ruby Gems: `nokogiri`
     
 To Run
 ================
