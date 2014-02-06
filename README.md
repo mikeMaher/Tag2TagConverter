@@ -6,7 +6,9 @@ A tag to tag converter ruby script template
 Requirements
 ================
 Ruby
+
   Gems
+  
     -nokogiri
     
 To Run
